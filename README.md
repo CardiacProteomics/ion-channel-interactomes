@@ -1,8 +1,8 @@
 # ECG plotter adaption
-This is an adaptation of Niek Verweij's ECG plotter we made for our ion channel interactomes paper [doi will be added once avaiable]  
+This is an adaptation of Niek Verweij's ECG plotter developed for the paper **Outlining cardiac ion channel protein interactors and their signature in the human electrocardiogram** by Maurya et al., published in Nature Cardiovascular Research in 2023: https://doi.org/10.1038/s44161-023-00294-y 
   
 The original version of the tool can be found here: https://github.com/niekverw/ecgenetics  
-and the original publication here:  https://doi.org/10.1016/j.cels.2020.08.005  
+and it's original publication here:  https://doi.org/10.1016/j.cels.2020.08.005  
 
 The purpose of this adaptation to use ECG plotter and automated fashion in a
 pipeline to analyze multiple genes at once. It extracts the most significant
